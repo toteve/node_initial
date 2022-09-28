@@ -1,0 +1,10 @@
+// mostrar valores globales en el Node
+console.log("Dirname actual : ", __dirname)
+console.log("Filename actual : ",__filename)
+console.log("==============================================================")
+console.log("Module visualizar: ",module)
+console.log("==============================================================")
+console.log(require)
+console.log("Require visualizar: ",require)
+console.log("==============================================================")
+console.log("Process visualizar: ", process)
